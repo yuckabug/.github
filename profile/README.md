@@ -1,3 +1,3 @@
 # Yuckabug
 
-**[Get started →](https://yuckabug.org)**
+Have questions? Email us at [hi@yuckabug.org](mailto:hi@yuckabug.org)!
