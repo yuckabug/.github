@@ -17,14 +17,6 @@ containing a clear description of the changes you made.
 git commit -m "Your commit message"
 ```
 
-Some of our repositories follow [conventional commits](https://www.conventionalcommits.org).
-
-If you're unsure, check the git history to see how others have committed changes.
-
-```bash
-git commit -m "feat: add new feature"
-```
-
 ## Reporting Bugs
 
 If you find a bug, please report it using
